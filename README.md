@@ -3,8 +3,8 @@
 ![DEVIL CHAT Demo](demo.png)
 
 
-                                 DEVIL CHAT
-                     Private P2P Chat - discord.gg/YB3nGfmpP
+                                         DEVIL CHAT
+                            Private P2P Chat - discord.gg/YB3nGfmpP
 ===================================================
 [EN] ENGLISH DOCUMENTATION
 =======================================
