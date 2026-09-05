@@ -113,9 +113,9 @@ Quick Start:
 3. Share the Room Code with your friends anywhere in the world!
 
 
-=============================================================
+==============================================
 [PT] DOCUMENTAÇÃO EM PORTUGUÊS
-=============================================================
+==============================================
 1. O QUE É O DEVIL CHAT?
 O DEVIL CHAT é um sistema de chat peer-to-peer (P2P) 100% efêmero e sem servidor,
 desenvolvido em Python para o CMD / Terminal do Windows.
